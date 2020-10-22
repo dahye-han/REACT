@@ -5,7 +5,8 @@ let h1 = React.createElement('h1', null, 'Hello World!')
 
 class HelloWorld extends React.Component {
   render () {
-    return React.createElement('div', null, h1, h1)
+    if(this.props.heading) return <h1>hello</h1>
+    else return <p>Hello</p> 
   }
 }
 
