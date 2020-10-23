@@ -9,10 +9,22 @@ class HelloWorld extends React.Component {
   }
 }
 
+class DateTimeNow extends React.Component {
+  render() {
+    let dateTimeNow = new Date().toLocaleString()
+    return React.createElement(
+      'span',
+      null,
+      'Current date and time is ${dateTimeNow}'
+    )
+  }
+}
+
 ReactDOM.render(
   React.createElement(
     'div', 
     null, 
+    React.createElement(DateTimeNow),
     React.createElement(HelloWorld, {
       if: 'ember',
       frameworkName: 'Ember.js',
