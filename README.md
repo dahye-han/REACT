@@ -16,6 +16,14 @@
 - 아침밥, 점심밥, 저녁밥은 기본으로 세팅하고 간식, 영양제 등을 추가할 수 있음
 - 오늘 날짜를 상단에 표기
 - 초기화 버튼을 누를 시 아침밥, 점심밥, 저녁밥 체크해둔것 있으면 체크 해제 및 루가된 사항 제거
+<div>
+  <img width="45%" src="https://user-images.githubusercontent.com/54923847/100542445-353e8780-328d-11eb-9e43-1f2f9f7891ac.png">
+  <img width="45%" src="https://user-images.githubusercontent.com/54923847/100542450-45566700-328d-11eb-99b9-3886a077146c.png">
+</div>
+<div>
+  <img width="45%" src="https://user-images.githubusercontent.com/54923847/100542459-50a99280-328d-11eb-87fb-4dcf933787c7.png">
+  <img width="45%" src="https://user-images.githubusercontent.com/54923847/100542462-57380a00-328d-11eb-803e-6d49b67c96c6.png">
+</div>  
 
 ## 프로젝트 시작하기
 - frontend 파일로 이동해서 npm install
