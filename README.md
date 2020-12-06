@@ -20,8 +20,6 @@
 <div>
 <img width="184" alt="main" src="https://user-images.githubusercontent.com/54923847/101278708-b901f200-3800-11eb-8ac6-5b1528a1b2ab.PNG">
 <img width="190" alt="insertmeal" src="https://user-images.githubusercontent.com/54923847/101278709-bd2e0f80-3800-11eb-84af-34d7034b0fdb.PNG">
-</div>
-<div>
 <img width="189" alt="inserandcheck" src="https://user-images.githubusercontent.com/54923847/101278712-bf906980-3800-11eb-92ac-991ce99a4f84.PNG">
 <img width="195" alt="eatall" src="https://user-images.githubusercontent.com/54923847/101278713-c15a2d00-3800-11eb-8e8a-a2a545bac499.PNG">
 </div>  
