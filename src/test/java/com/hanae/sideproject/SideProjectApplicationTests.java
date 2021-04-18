@@ -1,10 +1,10 @@
-package com.hanae.springAndReact;
+package com.hanae.sideproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringAndReactApplicationTests {
+class SideProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
